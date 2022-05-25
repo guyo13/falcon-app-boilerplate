@@ -1,0 +1,12 @@
+venv
+__pycache__
+*.pyc
+.gitignore
+.git
+.editorconfig
+.gitattributes
+CHANGELOG.md
+deleteme.*
+conf.d
+examples
+logs

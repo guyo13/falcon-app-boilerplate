@@ -1,0 +1,7 @@
+{
+  "cors": {
+    "enabled": false,
+    "allowedOrigins": ["http://example.com"],
+    "exposedHeaders": []
+  }
+}
